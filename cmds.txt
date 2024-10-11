@@ -10,3 +10,10 @@
 10)git add .  //adds all files
 11)git log  //history of all commits
 12)git checkout <commit hash>  //moving back to previous commit
+13)git checkout <branchName>  //moving to current latest commit
+14)git checkout -f <branchName>   // made any changes in detached head and moving to current latest commit
+15)git remote add origin <remote repo link>  // linking repo link to origin
+16)git push -u origin <branchName> // pushing all committed to remote repository
+17)git branch <branchName> // creates new branch
+18)git checkout -b <branchName> // creating new branch and switching
+19)git branch <branchName> <specific_branchName>  // creating branch from specific branch
