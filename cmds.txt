@@ -1,0 +1,10 @@
+1)git --version //version
+2)git config --global user.name '<name>'  //global username
+3)git config --global user.email '<email>'  //global email
+4)git init  //initializing repository
+5)git config --global init.defaultBranch <name> // changing default Branch name
+6)git branch -m <name>  //rename branch name
+7)git status  //status of your repository
+8)git add <filename.extension>  //adding single file
+9)git commit -m 'message'  //Checkpoint
+10)
