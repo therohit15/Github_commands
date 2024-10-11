@@ -7,4 +7,6 @@
 7)git status  //status of your repository
 8)git add <filename.extension>  //adding single file
 9)git commit -m 'message'  //Checkpoint
-10)
+10)git add .  //adds all files
+11)git log  //history of all commits
+12)git checkout <commit hash>  //moving back to previous commit
