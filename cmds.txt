@@ -20,3 +20,7 @@
 20)git push --set-upstream origin <branchName>  // adding newly created branch to remote repository
 21)git push // alternative to git push -u origin <branchName>
 22)git pull // fetches changes from remote repo to local repo
+23)git reset <commit hash>  // mixed reset
+24)git reset --soft <commit hash>  // changes made after are staged
+25)git reset --hard <commit hash>  // changes made after are deleted
+26)git revert <commit hash>  // same as reset but without deleting any commit
