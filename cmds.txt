@@ -17,3 +17,6 @@
 17)git branch <branchName> // creates new branch
 18)git checkout -b <branchName> // creating new branch and switching
 19)git branch <branchName> <specific_branchName>  // creating branch from specific branch
+20)git push --set-upstream origin <branchName>  // adding newly created branch to remote repository
+21)git push // alternative to git push -u origin <branchName>
+22)git pull // fetches changes from remote repo to local repo
